@@ -1,0 +1,3 @@
+﻿  AreaOfTriangle.cpp
+D:\Users\270046103\OneDrive - UP Education\Desktop\AreaOfTriangle\AreaOfTriangle.cpp(17,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AreaOfTriangle.vcxproj -> D:\Users\270046103\OneDrive - UP Education\Desktop\AreaOfTriangle\Debug\AreaOfTriangle.exe
