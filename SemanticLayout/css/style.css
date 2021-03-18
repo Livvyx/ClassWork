@@ -1,0 +1,64 @@
+/* css reset */
+
+* {
+  margin :0;
+  padding : 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: gray;
+  color :orange;
+    border: 2px solid white;
+}
+
+header, footer {
+  background: grey;
+  color : whitesmoke;
+  height: 100px
+
+
+}
+
+main {
+  background: white;
+  color : black;
+  margin : 0.5% 1%;
+
+}
+.row {
+  width : 100%;
+  height : 500px;
+    border: 2px solid black;
+}
+.col1{
+  width : 75%;
+  background: pink;
+  height : 450px;
+  /* margin : 15px; */
+  float : left;
+}
+
+.col2{
+  width : 25%;
+  background: lightblue;
+
+  float : left;
+  /* margin:15px; */
+
+
+}
+
+.row :: after {
+  clear : both;
+  display: table;
+  content : "";
+}
+.col1{
+
+}
+.article {
+background: lightblue;
+height: 200px;
+border: 2px solid black;
+margin : 0.5% 1%;
