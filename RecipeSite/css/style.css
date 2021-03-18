@@ -1,0 +1,60 @@
+
+body {
+  background-color: #FFE099;
+ /* color : Yellow; */
+}
+.logo__img {
+  width:  5%;
+  height: auto;
+  display: block;/* to center the image*/
+  margin: auto;
+}
+
+/* #FFE099 -light Yellow
+#D3EDB7 - light green */
+
+.main__heading {
+  color : #9596E8 ;
+  font-size: 60px;
+  background: white;
+  margin: 30px 25%;
+  text-align:center;
+}
+.cake__img {
+  width:  50%;
+  height: auto;
+  display: block;/* to center the image*/
+  margin: auto;
+
+}
+.ingredients__heading{
+
+  font-size: 45px;
+  color :#9596E8;
+  background-color: white;
+  text-align: center;
+  margin: 30px 25%;
+}
+.ingredientslist__heading {
+font-size: 20px;
+text-align: left;
+list-style: none;
+
+
+}
+.IngredientExplain__heading {
+  font-size: 20px;
+width: 60%;
+text-align: left;
+margin : 30px 20%;
+list-style: none;
+line-height: normal;
+
+}
+.directions__para {
+border: 2px solid black;
+width: 30%;
+line-height: inherit;
+margin: auto;
+
+}

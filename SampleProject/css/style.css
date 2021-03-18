@@ -1,0 +1,55 @@
+
+*{
+margin : 0;
+padding : 0;
+box-sizing : border-box;
+}
+body {
+background : lightblue;
+color : black;
+}
+main{
+margin: 30px 25%;
+
+}
+ /* font-family: 'Redressed', cursive; */
+ /* font-family: 'DotGothic16', sans-serif; */
+h1{
+Color : Lightyellow;
+}
+h2{
+
+  color : green;
+}
+
+p {
+font-family: 'DotGothic16', sans-serif;
+color : black;
+background : white;
+}
+
+.home__heading--intro{
+text-align: center;
+margin : 30px auto 25px;
+
+}
+
+h2 {
+text-align: center;
+
+}
+
+.home__para--intro{
+
+width: 60%;
+
+margin: auto;
+
+}
+
+.home__list--intro{
+
+  /* margin: 20px 200px; */
+
+    margin: 20px 20%;
+}
