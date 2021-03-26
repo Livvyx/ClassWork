@@ -1,0 +1,3 @@
+﻿  StringCharArray.cpp
+D:\Users\270046103\OneDrive - UP Education\Desktop\CPP\StringCharArray\StringCharArray.cpp(10,6): warning C4101: 'i': unreferenced local variable
+  StringCharArray.vcxproj -> D:\Users\270046103\OneDrive - UP Education\Desktop\CPP\StringCharArray\Debug\StringCharArray.exe
