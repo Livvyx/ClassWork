@@ -1,0 +1,4 @@
+﻿  MatrixRandomNumberGenerator.cpp
+C:\Users\270046103\OneDrive - UP Education\Desktop\CPP\MatrixRandomNumberGenerator\MatrixRandomNumberGenerator.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\270046103\OneDrive - UP Education\Desktop\CPP\MatrixRandomNumberGenerator\MatrixRandomNumberGenerator.cpp(55,10): warning C4129: ' ': unrecognized character escape sequence
+  MatrixRandomNumberGenerator.vcxproj -> C:\Users\270046103\OneDrive - UP Education\Desktop\CPP\MatrixRandomNumberGenerator\Debug\MatrixRandomNumberGenerator.exe
