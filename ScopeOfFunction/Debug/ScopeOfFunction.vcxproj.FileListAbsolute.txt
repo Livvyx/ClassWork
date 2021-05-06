@@ -1,0 +1,2 @@
+C:\Users\270046103\OneDrive - UP Education\Desktop\CPP\ScopeOfFunction\Debug\ScopeOfFunction.exe
+C:\Users\270046103\OneDrive - UP Education\Desktop\CPP\ScopeOfFunction\Debug\ScopeOfFunction.pdb
